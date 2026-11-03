@@ -23,6 +23,7 @@
     background-size: cover;
     height: 45px;
     width: 100%;
+    background-color: #0f1111;
 }
 .border {
     border: 1.5px solid transparent;
